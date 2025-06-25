@@ -10,6 +10,8 @@ class Program
         Console.WriteLine($"You entered: {number}");
         #endregion
 
+
+
         #region 2. Write C# program that converts a string to an integer, but the string contains non-numeric characters. And mention what will happen
 
         string value = "123abc";
